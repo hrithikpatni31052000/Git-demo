@@ -8,7 +8,7 @@ def substract(x,y):
 
 #added multiply header
 def multiply(x,y):
-	pass
+	return x*y
 
 #added divide header
 def divide(x,y):
