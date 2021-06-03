@@ -11,10 +11,10 @@ def substract(x,y):
 
 #added multiply header
 def multiply(x,y):
-	if y>x:
+	if x==0:
 		return error
 	else:
-		return x-y
+		return x*y
 
 #added divide header
 def divide(x,y):
