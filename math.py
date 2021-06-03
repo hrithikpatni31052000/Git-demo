@@ -12,7 +12,7 @@ def substract(x,y):
 #added multiply header
 def multiply(x,y):
 	if x==0:
-		return error
+		return zero value
 	else:
 		return x*y
 
